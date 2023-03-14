@@ -1,0 +1,71 @@
+!DOCTYPE html>
+<html>
+
+   <head>
+     
+      <title>RESUME TEMPLATE</title>
+	  
+	  <style>
+	  header {
+			padding: 60px;
+			text-align: float;
+			backgroundcolor: white;
+			color: red;...
+
+	  
+	  </style>
+	  
+	  
+   </head>
+	
+   <body>
+      <header>
+	  <h1>YOUR NAME</h1>
+	  <>PROFESSION OR INDUSTRY | LINK TO OTHER ONLINE PROPERTIES: PORTFOLIO/WEBSITE/BLOG </p>
+	  
+	  </header>
+		
+      <article>
+         <section>
+            <h1><u>OBJECTIVE </u></h1>
+			<p> To get started, click placeholder text and start typing. Be brief: one or two sentences.<br> Double-click the table celles in the footer to add your contact info (or delete the columns you don't want</p>
+			
+			<h1><u>SKILLS </u></h1>
+			<p>Explain what you're especially good at.What sets you apart?Use your own language-not jargon </p>                 				
+			
+			<h1><u>EXPERIENCE </u></h1>
+			<h2>JOB TITLE <li> COMPANY </li>DATES FROM - TO </h2>
+			<p>Summarize your key responsibilities, leardeship, and most stellar accomplishments. Don't list everything;keep it relevant and include data that shows the impact you made.</p>
+			<h2>JOB TITLE <li> COMPANY </li>DATES FROM - TO </h2>
+			<p>Think about the size of the yeam you led, the number of project you balanced, or the number of articles you wrote. </p>
+			
+			<h1><u>EDUCATION </u></h1>
+			<h2>DEGREE <li> DATE EARNED </li>SCHOOL </h2>
+			<p>You might want to include your GPA and summary of relevant coursework, awards, and honors. </p>
+			<h2>DEGREE <li> DATE EARNED </li>SCHOOL </h2>
+			<p>On the Home tab of the ribbon, check out Styles to apply the formatting you need with jsut a click.</p>
+			
+			<h1><u>VOLUNTEER EXPERIENCE OR LEADERSHIP </u></h1>
+			<p>Did you manage a team for your club, lead a project for your favorite charity, or edit your school newspaper?Go ahead and describe experiences that illustrate your leardeship abilities</p>
+		
+		
+		</section>
+      </article>
+		 
+      <footer>
+	  <div class="footer">
+		<li>WBHS ESPORTS</li>
+			<ul>
+				<li><a href=" " target="_blank">GMAIL</a></li>
+				<li>|</li>
+				<li><a href=" " target="_blank">TWITTER</a></li>
+				<li>|</li>
+				<li><a href=" " target="_blank">TELEPHONE/a></li>
+				<li><a href=" " target="_blank">LINKEDIN</a></li>
+				<li>|</li>
+			</ul>
+	  </div>
+	  </footer>
+      
+   </body>
+</html>

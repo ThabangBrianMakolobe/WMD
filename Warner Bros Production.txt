@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+     
+      <title>WARNER BROS PRODUCTION</title>
+	  
+	  <style>
+	  	body{
+			margin: 0% 25%;
+			background-color: red;
+			border: #ff3333 solid thin;
+			padding: 0 2%;
+		}
+ 
+		header{
+			height: 150px;
+			background-color: #ff5555;
+		}
+		aside{
+			float: left;
+			width: 30%;
+			background-color: 
+			margin: 200px 10px; 
+		}
+		article{
+			float: right;
+			width: 65%;
+			margin: 0px 65px;
+		}
+		footer{
+			clear: both;
+			align: center;
+		}
+	  </style>
+	  
+	</head>
+	
+	<body>
+		<header>
+			<h1>My Header</h1>
+		</header>
+		
+		<aside>
+			<h1>My aside</h1>
+		</aside>
+		
+		<article>
+			<h1>My article</h1>
+		</article>
+		
+		<footer>
+			<h1>My footer</h1>
+		</footer>
+		
+	</body>
+	
+</html>
